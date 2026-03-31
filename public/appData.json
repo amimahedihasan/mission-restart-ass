@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/YSSQ5VX/8bae5578f3cef05504447e0aebf779ea.jpg",
+    "title": "FocusFlow",
+    "companyName": "MindNest Labs",
+    "id": 1,
+    "description": "FocusFlow helps you concentrate through guided sessions, soundscapes, and productivity tools. Track your daily focus streaks and visualize improvements over time. The app includes Pomodoro timers, mood tracking, and reminders to rest. It’s designed for remote workers, students, and creators. With minimal UI and smart insights, FocusFlow makes deep work effortless.",
+    "size": 85,
+    "reviews": 2140,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 790 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1JRyRMh2/2.jpg",
+    "title": "FitPal",
+    "companyName": "NextGen Fitness",
+    "id": 2,
+    "description": "FitPal offers personalized workouts and nutrition guidance for every fitness level. Create custom fitness goals and track your progress through interactive dashboards. AI-based recommendations help optimize your routines. FitPal includes home workouts, gym plans, and wellness challenges. Stay motivated with badges, leaderboards, and community engagement.",
+    "size": 120,
+    "reviews": 5890,
+    "ratingAvg": 4.4,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/GQxBRrqV/3.jpg",
+    "title": "NoteHaus",
+    "companyName": "Creative Cloudworks",
+    "id": 3,
+    "description": "NoteHaus is a versatile note-taking app designed for writers and thinkers. Organize notes, tasks, and media files with seamless syncing across devices. It supports markdown, drawing, and audio memos. The clean interface encourages creativity without distractions. Whether brainstorming or journaling, NoteHaus keeps your ideas structured and accessible.",
+    "size": 68,
+    "reviews": 1540,
+    "ratingAvg": 4.8,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 980 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SXqbH6sm/4.jpg",
+    "title": "WeatherWise",
+    "companyName": "ClimaTech",
+    "id": 4,
+    "description": "WeatherWise delivers accurate forecasts with intuitive visuals and alerts. It uses AI-based models to predict local weather conditions up to 10 days ahead. The app includes radar maps, air quality updates, and severe weather warnings. Users can personalize dashboards for multiple cities. Stay informed and prepared with detailed insights anytime, anywhere.",
+    "size": 95,
+    "reviews": 3980,
+    "ratingAvg": 4.2,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1010 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/n888kfPV/5.jpg",
+    "title": "TravelMate",
+    "companyName": "Orbit Studio",
+    "id": 5,
+    "description": "TravelMate simplifies trip planning by curating itineraries and booking details in one place. Discover hidden gems, local attractions, and dining options tailored to your preferences. Offline maps and budget tracking make travel easier. Share your journeys with friends through interactive journals. With smart recommendations, every trip feels like a custom adventure.",
+    "size": 110,
+    "reviews": 6720,
+    "ratingAvg": 4.7,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3730 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/d4bXC0B2/6.jpg",
+    "title": "BudgetBee",
+    "companyName": "HiveWorks",
+    "id": 6,
+    "description": "BudgetBee helps you track expenses, create savings goals, and visualize financial growth. With smart analytics, it categorizes your spending automatically. The app includes multi-currency support, bill reminders, and investment summaries. Its friendly interface makes personal finance management easy for everyone. Achieve financial stability with BudgetBee’s clear insights.",
+    "size": 75,
+    "reviews": 2490,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 880 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Kpc7WK93/7.jpg",
+    "title": "CalmCast",
+    "companyName": "Tranquil Apps",
+    "id": 7,
+    "description": "CalmCast streams soothing audio and video to reduce stress and anxiety. Choose from guided meditations, ambient sounds, and nature scenes. The app also offers breathing exercises and daily mindfulness challenges. With adaptive recommendations, CalmCast helps you unwind anytime. Its serene visuals and soft sounds make it your daily calm companion.",
+    "size": 90,
+    "reviews": 3210,
+    "ratingAvg": 4.9,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 2140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gFh17NJF/8.jpg",
+    "title": "QuickScan",
+    "companyName": "PixelForge",
+    "id": 8,
+    "description": "QuickScan transforms your phone into a portable document scanner. Capture, crop, and enhance scans with automatic edge detection. The app supports PDF exports, OCR text extraction, and cloud storage sync. It’s perfect for students and professionals managing paperwork. QuickScan delivers clarity, speed, and convenience in every scan.",
+    "size": 60,
+    "reviews": 1800,
+    "ratingAvg": 4.3,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1tjJ4dMz/9.jpg",
+    "title": "Langify",
+    "companyName": "PolyLingua",
+    "id": 9,
+    "description": "Langify is your AI language tutor that adapts to your pace and goals. Practice conversation, vocabulary, and grammar with real-time feedback. It supports over 20 languages with interactive lessons and pronunciation tools. Track your progress through streaks and challenges. Langify turns learning a new language into a fun, daily habit.",
+    "size": 130,
+    "reviews": 7340,
+    "ratingAvg": 4.7,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 3850 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JFzXrcWZ/10.jpg",
+    "title": "MealCraft",
+    "companyName": "Foodverse Labs",
+    "id": 10,
+    "description": "MealCraft helps you plan, cook, and enjoy meals tailored to your preferences. Explore recipes from global cuisines and track your nutrition effortlessly. The app includes grocery lists, calorie tracking, and step-by-step video guides. Save favorites and share your creations with friends. MealCraft makes healthy eating inspiring and practical every day.",
+    "size": 105,
+    "reviews": 3980,
+    "ratingAvg": 4.6,
+    "downloads": 2900000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1910 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VYTTK4hV/11.jpg",
+    "title": "TaskForge",
+    "companyName": "OrbitSoft",
+    "id": 11,
+    "description": "TaskForge empowers teams to plan, track, and deliver projects efficiently. With drag-and-drop task boards, timelines, and analytics, productivity becomes transparent. The app integrates seamlessly with popular tools like Slack and Google Drive. Whether for startups or enterprises, TaskForge helps keep every project on track. Collaborate smarter, not harder.",
+    "size": 150,
+    "reviews": 4560,
+    "ratingAvg": 4.3,
+    "downloads": 3300000,
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 830 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1670 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bjqTMJ5F/12.jpg",
+    "title": "Readify",
+    "companyName": "LitWorks",
+    "id": 12,
+    "description": "Readify brings thousands of books, audiobooks, and magazines to your fingertips. Customize your reading experience with themes, fonts, and synced highlights. Offline access ensures uninterrupted reading anywhere. Join book clubs and discussions within the community. With Readify, your next great read is always one tap away.",
+    "size": 140,
+    "reviews": 6120,
+    "ratingAvg": 4.8,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 3440 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y7Z3j2Fj/13.jpg",
+    "title": "GameVault",
+    "companyName": "PixelStorm Studios",
+    "id": 13,
+    "description": "GameVault curates trending games and provides a hub for gaming communities. Discover reviews, trailers, and gameplay videos all in one place. Earn achievements for exploring new titles and sharing insights. Stay updated with upcoming releases and tournaments. GameVault turns your passion for gaming into a connected experience.",
+    "size": 200,
+    "reviews": 8290,
+    "ratingAvg": 4.1,
+    "downloads": 6700000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2790 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rp3cV2dg/14.jpg",
+    "title": "SleepyTime",
+    "companyName": "ZenCore",
+    "id": 14,
+    "description": "SleepyTime improves your sleep through relaxing sounds and smart sleep tracking. It uses motion sensors and audio analysis to monitor patterns. Wake up refreshed with its gentle alarm synced to your sleep cycle. The app includes bedtime stories and white noise playlists. With SleepyTime, better rest is just a tap away.",
+    "size": 80,
+    "reviews": 2980,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1260 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mCKNx97D/15.jpg",
+    "title": "PhotoMint",
+    "companyName": "SnapForge",
+    "id": 15,
+    "description": "PhotoMint offers professional editing tools in a sleek interface. Adjust lighting, apply filters, and remove backgrounds instantly. AI enhancements make portraits and landscapes shine. Batch edit multiple images and share directly to social media. With PhotoMint, anyone can turn snapshots into stunning art effortlessly.",
+    "size": 145,
+    "reviews": 5120,
+    "ratingAvg": 4.4,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KxWr8SkG/16.jpg",
+    "title": "MindMaple",
+    "companyName": "BrainWave Systems",
+    "id": 16,
+    "description": "MindMaple helps visualize ideas and organize thoughts creatively. Build colorful mind maps for projects, goals, or learning plans. The drag-and-drop interface makes mapping intuitive. Sync your diagrams across devices with cloud support. From students to professionals, MindMaple boosts clarity and productivity.",
+    "size": 70,
+    "reviews": 1650,
+    "ratingAvg": 4.6,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fzLt1csD/17.jpg",
+    "title": "StreamZone",
+    "companyName": "MediaHub",
+    "id": 17,
+    "description": "StreamZone brings together movies, shows, and live channels into one streaming experience. Enjoy personalized recommendations and watchlists. Adaptive streaming ensures smooth playback on any device. Parental controls and multiple profiles make it family-friendly. StreamZone is entertainment without boundaries.",
+    "size": 190,
+    "reviews": 10300,
+    "ratingAvg": 4.2,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 950 },
+      { "name": "2 star", "count": 1150 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0jLYKDm5/18.jpg",
+    "title": "SafeNet",
+    "companyName": "CyberGuard",
+    "id": 18,
+    "description": "SafeNet secures your online activity with advanced encryption and real-time protection. Browse safely with built-in VPN and tracker blocking. The app includes password vaults and breach alerts. Detailed security reports help you stay informed. SafeNet ensures privacy and peace of mind in the digital age.",
+    "size": 160,
+    "reviews": 5420,
+    "ratingAvg": 4.7,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2830 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WWT8zjJL/19.jpg",
+    "title": "EduSpark",
+    "companyName": "BrightLearn",
+    "id": 19,
+    "description": "EduSpark offers interactive courses, quizzes, and certifications across multiple subjects. Learn from experts through engaging videos and live sessions. Personalized learning paths adapt to your progress. The app tracks achievements with badges and points. EduSpark makes education accessible and fun for learners of all ages.",
+    "size": 150,
+    "reviews": 7920,
+    "ratingAvg": 4.8,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 5200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/V0J91rDg/20.jpg",
+    "title": "ShopSmart",
+    "companyName": "RetailGenie",
+    "id": 20,
+    "description": "ShopSmart helps you compare prices, discover deals, and save on every purchase. Scan barcodes to find the best offers across stores. Create wishlists, set alerts, and track order history easily. The app also features cashback rewards and discount coupons. ShopSmart ensures smarter shopping with every click.",
+    "size": 125,
+    "reviews": 8840,
+    "ratingAvg": 4.4,
+    "downloads": 6400000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4140 }
+    ]
+  }
+]
